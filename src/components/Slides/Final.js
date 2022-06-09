@@ -13,7 +13,7 @@ export default function () {
             https://forms.gle/XjKZ93oe8HcJeXXF8
           </a>
         </Text>
-        <Image src={survey} alt="QR code to the previous link" />
+        <Image src={survey} alt="QR code to the previous link" height="500px" />
       </FlexBox>
     </Slide>
   );

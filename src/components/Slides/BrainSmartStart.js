@@ -31,7 +31,9 @@ export default function () {
         </Text>
       </Slide>
       <Slide>
-        <Heading>Safekeeper Responsibilities</Heading>
+        <Heading padding="0px" margin="0px">
+          Safekeeper Responsibilities
+        </Heading>
         <OrderedList>
           <ListItem>
             Be a STAR. Create a physically, emotionally and psychologically safe
@@ -50,15 +52,21 @@ export default function () {
           </ListItem>
         </OrderedList>
       </Slide>
-      <Slide>
+      <Slide backgroundColor="hsl(300, 100%, 50%, 0.8)">
         <Heading>Reflection</Heading>
-        <Text>Rose - Bud - Thorn</Text>
-        <FlexBox>
-          <Image
-            src="https://media.giphy.com/media/jaMyDO8Jeprl6/giphy.gif"
-            height="250px"
-            alt="rose blooming"
-          />
+        <FlexBox
+          flexDirection="column"
+          justifyContent="center"
+          alignItems="center"
+        >
+          <Text>Rose - Bud - Thorn</Text>
+          <FlexBox>
+            <Image
+              src="https://media.giphy.com/media/jaMyDO8Jeprl6/giphy.gif"
+              height="250px"
+              alt="rose blooming"
+            />
+          </FlexBox>
         </FlexBox>
         <Notes>
           <Text>Activity</Text>

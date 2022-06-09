@@ -267,9 +267,7 @@ export default function () {
         </Text>
         <Notes>
           <Text>
-            Trigger Thought → Belly Breathing and Calming Self Talk → Change our
-            Perception → Wise Response → Reduce the intensity of future
-            triggers.
+            {`Trigger Thought → Belly Breathing and Calming Self Talk → Change our Perception → Wise Response → Reduce the intensity of future triggers.`}
           </Text>
         </Notes>
       </Slide>
@@ -622,21 +620,25 @@ export default function () {
         </FlexBox>
       </Slide>
       <Slide backgroundColor="hsl(300, 100%, 50%, 0.8)">
-        <Heading>Scared</Heading>
-        <FlexBox
-          alignItems="center"
-          justifyContent="center"
-          flexDirection="row"
-        >
-          <Image
-            src="https://media.giphy.com/media/GVKHEH8M5MLIWiqZVz/giphy.gif"
-            height="200px"
-            alt="Scared Kirby"
-          />
+        <FlexBox>
+          <Heading>Scared</Heading>
+          <FlexBox
+            alignItems="center"
+            justifyContent="center"
+            flexDirection="row"
+          >
+            <Image
+              src="https://media.giphy.com/media/GVKHEH8M5MLIWiqZVz/giphy.gif"
+              height="200px"
+              alt="Scared Kirby"
+            />
+          </FlexBox>
         </FlexBox>
         <Text>
           Message: Assure of authority and provide safety through commitment
         </Text>
+      </Slide>
+      <Slide backgroundColor="hsl(300, 100%, 50%, 0.8)">
         <FlexBox>
           <OrderedList fontSize="36px">
             <ListItem>Step 1: Be a STAR + Mantra</ListItem>
@@ -666,8 +668,7 @@ export default function () {
           >
             <Image
               src="https://media.giphy.com/media/10tIjpzIu8fe0/giphy.gif"
-              height="50% !important"
-              width="auto !important"
+              height="200px"
               alt="Scared Kirby"
             />
           </FlexBox>
@@ -676,6 +677,8 @@ export default function () {
           Message: Seek comfrom from those you love. Signal to our support
           network that we are calling out for comfort.
         </Text>
+      </Slide>
+      <Slide backgroundColor="hsl(300, 100%, 50%, 0.8)">
         <FlexBox>
           <OrderedList fontSize="36px">
             <ListItem>Step 1: Be a STAR + Mantra</ListItem>
@@ -693,18 +696,19 @@ export default function () {
         </FlexBox>
       </Slide>
       <Slide backgroundColor="hsl(300, 100%, 50%, 0.8)">
-        <Heading>Happy</Heading>
-        <FlexBox
-          alignItems="center"
-          justifyContent="center"
-          flexDirection="row"
-        >
-          <Image
-            src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif"
-            height="50% !important"
-            width="auto !important"
-            alt="Scared Kirby"
-          />
+        <FlexBox>
+          <Heading>Happy</Heading>
+          <FlexBox
+            alignItems="center"
+            justifyContent="center"
+            flexDirection="row"
+          >
+            <Image
+              src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif"
+              height="200px"
+              alt="Scared Kirby"
+            />
+          </FlexBox>
         </FlexBox>
         <FlexBox>
           <OrderedList>
