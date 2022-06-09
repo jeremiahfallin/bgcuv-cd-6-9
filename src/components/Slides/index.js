@@ -19,6 +19,7 @@ import { default as TeachableMoments } from "./TeachableMoments";
 import Emotions from "./Emotions";
 import RegulationProcess from "./RegulationProcess";
 import ConsciousDisciplineSummary from "./ConsciousDisciplineSummary";
+import BrainSmartStart from "./BrainSmartStart";
 
 export default [
   Intro,
@@ -41,5 +42,6 @@ export default [
   Emotions,
   RegulationProcess,
   Notice,
+  BrainSmartStart,
   Final
 ];

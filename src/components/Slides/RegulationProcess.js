@@ -287,13 +287,26 @@ export default function () {
           </OrderedList>
         </OrderedList>
         <Notes>
+          <Text>Reframe:</Text>
+          <Text>Wish Well</Text>
           <Text>
-            Reframe: Wish Well The process of generating a coherent heart, one
-            that knows all is well in the world, and then sending that feeling
-            outward with our intention. Centers us, makes us present. Helps to
-            interfere with backsliding into the lower centers of the brain.
-            Gives off an energy that “all is well.” Oops Change Perception: QTIP
-            Problem Solve, win-win solutions
+            The process of generating a coherent heart, one that knows all is
+            well in the world, and then sending that feeling outward with our
+            intention.
+          </Text>
+          <Text>Centers us, makes us present.</Text>
+          <Text>
+            Helps to interfere with backsliding into the lower centers of the
+            brain.
+          </Text>
+          <Text>Gives off an energy that “all is well.”</Text>
+          <Text>Oops</Text>
+          <Text>Change Perception: QTIP</Text>
+          <Text>Problem Solve, win-win solutions</Text>
+          <Text>
+            Relax into our emotions rather than reactively judging, distancing,
+            distracting or medicating them. By doing this, we allow our emotions
+            to continue their natural journey into consciousness.
           </Text>
         </Notes>
       </Slide>
