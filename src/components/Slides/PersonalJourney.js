@@ -1,7 +1,7 @@
 import { Slide, Image, FlexBox, Heading, Text, Appear, Notes } from "spectacle";
-import survival from "../../public/survival.png";
-import emotional from "../../public/emotional.png";
-import executive from "../../public/executive.png";
+import survival from "../../images/survival.png";
+import emotional from "../../images/emotional.png";
+import executive from "../../images/executive.png";
 
 export default function () {
   return (

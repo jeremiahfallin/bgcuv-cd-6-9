@@ -266,8 +266,11 @@ export default function () {
           upset.
         </Text>
         <Notes>
-          Trigger Thought → Belly Breathing and Calming Self Talk → Change our
-          Perception → Wise Response → Reduce the intensity of future triggers.
+          <Text>
+            Trigger Thought → Belly Breathing and Calming Self Talk → Change our
+            Perception → Wise Response → Reduce the intensity of future
+            triggers.
+          </Text>
         </Notes>
       </Slide>
       <Slide backgroundColor="hsl(300, 100%, 50%, 0.8)">
@@ -277,9 +280,7 @@ export default function () {
           <ListItem>Uploading Calm through Active Calming</ListItem>
           <OrderedList>
             <ListItem>Survival: Be a STAR</ListItem>
-
             <ListItem>Emotional: Mantra</ListItem>
-
             <ListItem>
               Executive State: Reframe, Change Perception, Problem Solve
             </ListItem>

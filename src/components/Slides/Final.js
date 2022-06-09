@@ -1,5 +1,5 @@
 import { Slide, Heading, Text, Image, FlexBox } from "spectacle";
-import survey from "../../public/survey-qr.png";
+import survey from "../../images/survey-qr.png";
 
 export default function () {
   return (
